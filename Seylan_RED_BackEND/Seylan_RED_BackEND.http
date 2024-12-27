@@ -1,0 +1,6 @@
+@Seylan_RED_BackEND_HostAddress = http://localhost:5205
+
+GET {{Seylan_RED_BackEND_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
